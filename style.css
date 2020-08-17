@@ -1,0 +1,26 @@
+/*
+Theme Name: oceanwp-child
+Template: oceanwp
+Author: Julien Dellys
+Author URI: https://www.votre-domaine.fr
+Description: Une description de votre thème
+Version: 1.2.1597405595
+Updated: 2020-08-14 13:46:35
+
+*/
+/*
+#site-header-inner {
+    background-image: url("../../img/header.png");
+}
+*/
+.blog-entry.post .blog-entry-header .entry-title a {
+    color: #AD1;
+}
+
+body{
+	color : #2845ba;
+}
+
+p a{
+	color : #ef2361;
+}

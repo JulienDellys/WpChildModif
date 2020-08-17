@@ -1,0 +1,17 @@
+/*
+Theme Name: oceanwp-child
+Description: Une description de votre thème
+Author: Julien Dellys
+Author URI: https://www.votre-domaine.fr
+Template: oceanwp
+Version: 1.2
+*/
+body{
+	background-color : #ED9;
+}
+#site-header-inner {
+	background-image : url("../../uploads/2020/08/header.png");
+}
+.blog-entry.post .blog-entry-header .entry-title a{
+	color: red;
+}
